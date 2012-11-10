@@ -18,3 +18,8 @@ make rpm and install [Mosh](http://mosh.mit.edu/).
 
  * CentOS 6.x x86_64
  * Scientific Linux 6.x x84_64
+
+## Requirements
+
+* [EPEL](http://fedoraproject.org/wiki/EPEL)
+
